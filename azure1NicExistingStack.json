@@ -9,7 +9,7 @@
             "value": "password"
         },
         "adminPasswordOrKey": {
-            "value": ""
+            "value": "F5c0nfig!"
         },
         "dnsLabel": {
             "value": "bigip1"
@@ -30,13 +30,13 @@
             "value": "ltm:nominal"
         },
         "vnetName": {
-            "value": ""
+            "value": "test"
         },
         "vnetResourceGroupName": {
-            "value": ""
+            "value": "test"
         },
         "mgmtSubnetName": {
-            "value": ""
+            "value": "test"
         },
         "mgmtIpAddress": {
             "value": "DYNAMIC"
