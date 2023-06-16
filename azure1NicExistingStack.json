@@ -12,7 +12,7 @@
             "value": ""
         },
         "dnsLabel": {
-            "value": "bigip1.f5.demo"
+            "value": "bigip1"
         },
         "instanceName": {
             "value": "f5vm01"
