@@ -67,7 +67,7 @@
         },
         "restrictedSrcAddress": {
             "value": "108.48.5.213/32"
-        },
+        }, 
         "tagValues": {
             "value": {
                 "application": "APP",
